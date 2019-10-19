@@ -6,6 +6,7 @@
  ![alt text](https://github.com/jenizar/googlesheet-to-mysqldb-local-pc/blob/master/ngrok.PNG)
 
 Youtube video:
+https://youtu.be/SMYgZb4Zg84
 
 Step by step:
 1. Create Google Spreadsheet
